@@ -1,0 +1,21 @@
+{
+  "name": "MOLA DELIVERY & NURSERY",
+  "short_name": "MOLA DELIVERY",
+  "description": "Premium sod delivery, landscape materials, construction supplies, steel transportation, and nursery products across South Florida.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#166534",
+  "icons": [
+    {
+      "src": "/assets/images/mola-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/mola-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
